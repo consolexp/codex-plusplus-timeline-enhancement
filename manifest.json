@@ -1,0 +1,23 @@
+{
+  "id": "io.github.consolexp.timeline-enhancement",
+  "name": "Timeline Enhancement",
+  "version": "0.1.0",
+  "githubRepo": "consolexp/codex-plusplus-timeline-enhancement",
+  "description": "Show a question timeline on the right side of the conversation. Hover for a summary and click to jump.",
+  "author": {
+    "name": "consolexp",
+    "url": "https://github.com/consolexp"
+  },
+  "homepage": "https://github.com/consolexp/codex-plusplus-timeline-enhancement",
+  "iconUrl": "./icon.svg",
+  "tags": [
+    "timeline",
+    "conversation",
+    "ui"
+  ],
+  "scope": "renderer",
+  "main": "index.js",
+  "permissions": [
+    "settings"
+  ]
+}
